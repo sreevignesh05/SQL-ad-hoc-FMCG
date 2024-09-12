@@ -30,3 +30,7 @@ I am provided with a dataset containing multiple tables related to an organizati
 - A store procedure for Top Products in each division by sold quantity.
 
   #
+
+  <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" width="40" /></a> To view my Canva presentaion file _[click here](https://shorturl.at/Pkxjp)_
+
+  
