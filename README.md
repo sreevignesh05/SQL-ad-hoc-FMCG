@@ -1,4 +1,4 @@
-# <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=KlkfbDEjskb5&format=png&color=000000" width="35" /></a> SQL-ad-hoc-FMCG
+# <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=KlkfbDEjskb5&format=png&color=000000" width="35" /></a> SQL-ad-hoc-CPG
 This is my ad-hoc project using MySQL on AtliQ Hardware 
 
 # <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=FkqjAX6ZGe4B&format=png&color=000000" width="35" /></a> INTRODUCTION :
