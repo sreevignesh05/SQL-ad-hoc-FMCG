@@ -33,4 +33,10 @@ I am provided with a dataset containing multiple tables related to an organizati
 
   <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" width="40" /></a> To view my Canva presentaion file _[click here](https://shorturl.at/Pkxjp)_
 
+  <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qLVB1tIe9Ts9&format=png&color=000000" width="40" /></a> To view my Presentation video on youtube _[click here](https://youtu.be/kxVaNVQaPI4)_
+
+  <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=B2kE1iYkRIiw&format=png&color=000000" width="40" /></a> To view my Portfolio wbsite _[click here](https://codebasics.io/portfolio/SREE-VIGNESH-S)_
+
+  
+
   
